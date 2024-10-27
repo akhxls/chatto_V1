@@ -1,0 +1,28 @@
+{
+  "editor.fontLigatures": false,
+  "editor.fontWeight": "normal",
+  "code-runner.preserve Focus": false,
+  "code-runner.preserveFocus": false,
+  "editor.wordWrap": "on",
+  "editor.fontSize": 18,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true,
+  "files.autoSave": "afterDelay",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "tailwindCSS.includeLanguages": {
+    "plaintext": "html",
+    "html": "html",
+    "javascript": "javascript",
+    "css": "css",
+    "typescriptreact": "html",
+    "javascriptreact": "html"
+  },
+  "tailwindCSS.experimental.configFile": "./tailwind.config.js",
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "css.validate": false
+}
